@@ -1,0 +1,12 @@
+/* global */
+a, a:hover {
+    color: black;
+}
+
+.portfolio-item {
+    cursor: pointer;
+}
+.project-link,
+.project-link:hover {
+    color: #1779ba;
+}
